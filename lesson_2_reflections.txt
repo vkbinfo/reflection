@@ -2,3 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 to attach a version control system with project we need to initialize the repository
 .and in start it creates a master branch and it is important that in start in start there is no commit.
 but initialization we can call it initial commit.
+
+How is the staging area different from the working directory and the repository?
+ What value do you think it offers?
+Staging area is that which place in git vcs where files are ready  to commit .files included in staging area by the command
+git add.and it is very importent to understand that the value in staging area and and working directory can be diffferent

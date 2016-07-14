@@ -7,3 +7,7 @@ How is the staging area different from the working directory and the repository?
  What value do you think it offers?
 Staging area is that which place in git vcs where files are ready  to commit .files included in staging area by the command
 git add.and it is very importent to understand that the value in staging area and and working directory can be diffferent
+
+How can you use the staging area to make sure you have one commit per logical change?
+We add a logical change whatever file it effects we change that file.to add.first we add than we commit.
+

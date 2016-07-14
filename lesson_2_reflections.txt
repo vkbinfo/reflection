@@ -11,3 +11,5 @@ git add.and it is very importent to understand that the value in staging area an
 How can you use the staging area to make sure you have one commit per logical change?
 We add a logical change whatever file it effects we change that file.to add.first we add than we commit.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+We can give them name or i think we can kept them in different system so it is easy to maintain them.≈

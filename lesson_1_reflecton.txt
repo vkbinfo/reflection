@@ -1,0 +1,31 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+I now know how to use command line to check to codes what they differ.and it is good to see that everything seems so
+easy when we know how to use command line and instructors at udacity are cool.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+The best use of having history of file is that when i want to add a new feature in code and i ruined everything
+and i just want to go to the previous stage.than the history of files comes to save us otherwise it is too hard to get
+back to the previous code version.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having
+versions automatically saved, like Google Docs does?
+In the system of manually choosing ,we can always commit on a logical change and it is always good to change at a
+logical change.so its nice to have a manual control of saving versions.but we have to remember always to save the version
+manually.automatically is not feasible solution for code files.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like
+Google Docs, treat each file separately?
+Because codefiles depends on each other like index.css depends on index.html.
+
+How can you use the commands git log and git diff to view the history of files?
+First we need repository and after that go into repository and type git log it will
+display all the commites which happened over the time project development.and we can
+see the chanegs between two commites and with the command help git diff first_commit _id second_commit_id.
+
+How might using version control make you more confident to make changes that could break something?
+AFTER VERSION CONTROL WE DO NOT AFRAID TO ADD NEW FEATURE TO THE PROJECT BEACUE WE CAN GET BACK TO
+OUR OLD CODE IF FEATURE DOESN'T WORK AND CLIENT DO NOT WANT THE NEW FEATURE.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I will develpe android projects on the github.the biggest thing about github i dont't need to take care about
+caring about my project.

@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+to attach a version control system with project we need to initialize the repository
+.and in start it creates a master branch and it is important that in start in start there is no commit.
+but initialization we can call it initial commit.
